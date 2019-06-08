@@ -1,10 +1,15 @@
-documento analise de riscos
-	-> definir impacto do riscos
-	-> categorizar o riscos
-	-> que ações deve-se fazer para determinados riscos
-	-> aceitar o risco / mitigar o risco / arranjar solução / chorar
-	
-elaborar documento que tipos de SLA's que tem
-elaborar o documento do mansidão (Bussiness case)
-as 3 propostas têm que ter um pacote de formação (addon minimo horas de formação e dpx ter extras)
-proposta periodo de garantia 
+-> Bussiness Case
+
+-> Propostas 3x 
+	Contêm:
+		-> Pacote de formação (addon minimo horas de formação e dpx ter extras)
+		-> Periodo de garantia
+		
+-> Documento analise de riscos (DONE)
+	Contêm:
+		-> Definir impacto dos riscos
+		-> Categorizar os riscos
+		-> Que ações deve-se fazer para determinados riscos (aceitar risco, mitigiar, arranjar solução)
+		
+-> Documento com os SLA's que tem
+
