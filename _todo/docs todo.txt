@@ -1,15 +1,15 @@
 -> Bussiness Case
+TODO: João doing this
 
--> Propostas 3x 
-	Contêm:
-		-> Pacote de formação (addon minimo horas de formação e dpx ter extras)
-		-> Periodo de garantia
+-> Propostas de projecto (3x)
+TODO: Verificar se está tudo OK
 		
--> Documento analise de riscos (DONE)
-	Contêm:
-		-> Definir impacto dos riscos
-		-> Categorizar os riscos
-		-> Que ações deve-se fazer para determinados riscos (aceitar risco, mitigiar, arranjar solução)
-		
+-> Documento analise de riscos
+DONE
+
 -> Documento com os SLA's que tem
-
+	resposta em 24x7x4
+TODO: Não faço ideia do que seja necessário adicionar.	
+	
+-> Testes de aceitação
+TODO: Penso que esteja feito nao sei se vale a pena adicionar mais alguma coisa
