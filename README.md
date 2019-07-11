@@ -1,6 +1,8 @@
+
 # Índice do projeto
 
 ##### [Source Code](https://gitlab.com/rubenferreira1997/adotaqui)
+##### [Documentação](https://lodyny.github.io/DocGP/)
 ##### [Business Case](https://lodyny.github.io/DocGP/geral/BusinessCase.pdf)
 ***
 ##### [Proposta de Projecto](https://lodyny.github.io/DocGP/geral/Propostas.pdf)
